@@ -14,13 +14,19 @@ Chunks of narrative making power that belonged to the traditional media are fall
 
 With that dissipates the power and control that was once held by editors and owners of news outlets. That power and control isn't all bad. The reputation attached to the brand name requires fact checking. Narratives can be constructed whether conciously or simply through bias but there is also a consideration of the public interest.
 
-[diagram of everything connected]
+![](decentralised.png)
+
+_Happy little nodes in an almost fully connected network_
+
 
 Decentralisation is often presented as something good and pure, with everyone being connected to everyone removing the need for any single party to be a conduit for information. The removal of the lynch pin node in the network prevents censorship. However simply because a network is capable of evolving to become fully connected, that is not necessarily or even likely the outcome.
 
 Instead networks powered by platforms (at different levels, whether that's IP addressing or facebook messaging) where nodes can attach freely lead to all sorts of different constructions. Without intervention it seems like networks of people easily partition into separate groups. Information travels around the groups but very little comes in or out. When networks partition like this people outside the group of connected nodes become 2D characters. Straw men built to set on fire.
 
-[partitioned red blue group]
+![](partition.png)
+
+_Networks can split into as many parts that don't communicate as there are nodes_
+
 
 There's a lot of talk about algorithms and the power they have over us. This is a very important topic when it comes to prejudice in automated decision making and how effectively automated decision making can replace human decisions. But the line is that "algorithms" powered by data we handed over allow tech companies to dominate our thoughts and feelings by combining that data with behavioural science. But you can do an experiment to see how much power they really hold over us. I've been on Amazon since about 2003. Probably thousands of purchases. I just read a book about Trump. Looking at my reccomendations I see 10 more books about Trump. The truth is that recommendation engines don't work that well. Netflix's autoplay is more powerful than a machine learning algorithm designed to figure out your intimate desires.
 
@@ -32,7 +38,9 @@ Just as representative democracy is a weird soap opera played by a handful of pe
 
 Power and it's abuse will not disappear in a decentralised world just as financial power does not disappear in a world where everyone is able to make and spend money because what you have access to is not the same as what you potentially have access to and some will be better at forming connections and becoming hubs. What is absolutely vital is recognising memes as an important form of communication. Yes, those images with captions, but that's just the expression of an idea being copied over and over, being passed around the network.
 
-[show how some rise]
+![](power.png)
+
+_Same nodes in the network. Just because it can end up like the right doesn't stop a single node from being the central power_
 
 Let's not fall for the binary framing trap of the legacy old that has all the problems and the shiny new solution that solves all the problems. Old tools survived because they gave us something as well as because they gave people power. There's a genuine compromise between the public granting power and receiving something in return as with news media. New tools come with new problems that we need to learn how to deal with.
 
